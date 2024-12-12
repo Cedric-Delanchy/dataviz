@@ -1,4 +1,4 @@
-# dataviz Portfolio
+# Dataviz portfolio
 
 This repo is about some of the dataviz practices I've done. The objectives for me are to get some hands on practices with some of the major datavisualisation tools like Tableau or Power BI and build expertise.
 
